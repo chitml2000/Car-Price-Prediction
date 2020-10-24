@@ -62,6 +62,7 @@ PyPrind==2.11.2
 pyrsistent==0.17.3
 pysut==1.1
 pytest==6.1.1
+python==3.8.3
 python-dateutil==2.8.1
 pytz==2020.1
 pywin32==228
